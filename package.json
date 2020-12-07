@@ -1,0 +1,17 @@
+{
+  "name": "com.markdown.markdig",
+  "version": "1.0.0",
+  "displayName": "Markdig plugin for Unity",
+  "description": "Markdig v0.18.3 that can be enabled in RUNTIME MODE by defining `ENABLE_MARKDIG_RUNTIME` in `Scripting Define Symbols` under Edit -> Project Preferences -> Player",
+  "unity": "2018.4",
+  "dependencies": {},
+  "keywords": [
+    "Markdown",
+    "Markdig"
+  ],
+  "author": {
+    "name": "Markdig"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
