@@ -7,6 +7,7 @@ PluginImporter:
   executionOrder: {}
   defineConstraints:
   - '!ENABLE_MARKDIG_RUNTIME'
+  - MARKDIG_PACKAGE
   isPreloaded: 0
   isOverridable: 0
   isExplicitlyReferenced: 0
